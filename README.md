@@ -1,0 +1,2 @@
+# admin
+A static site
